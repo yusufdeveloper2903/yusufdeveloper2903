@@ -146,6 +146,6 @@ WordPress real-estate plugin with 5 React Gutenberg blocks, and a WooCommerce st
 
 <div align="center">
 
-💬 Open to full stack, AI engineering and QA automation roles and contracts · remote · Tashkent, Uzbekistan (UTC+5)
+💬 Open to full-stack, AI engineering and QA automation roles and contracts · remote · Tashkent, Uzbekistan (UTC+5)
 
 </div>
